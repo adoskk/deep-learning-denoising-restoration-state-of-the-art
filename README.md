@@ -10,6 +10,10 @@ SwinIR: Image Restoration Using Swin Transformer
 Liang et al., ICCV 2021
 [arXiv](https://arxiv.org/abs/2108.10257) [Github](https://github.com/cszn/KAIR/tree/master)
 
+Recorrupted-to-Recorrupted: Unsupervised Deep Learning for Image Denoising
+Pang et al., CVPR 2021
+[CVF](https://openaccess.thecvf.com/content/CVPR2021/html/Pang_Recorrupted-to-Recorrupted_Unsupervised_Deep_Learning_for_Image_Denoising_CVPR_2021_paper.html) [Github](https://github.com/PangTongyao/Recorrupted-to-Recorrupted-Unsupervised-Deep-Learning-for-Image-Denoising/tree/main)
+
 Masked Image Training for Generalizable Deep Image Denoising
 Chen et al., CVPR 2023
 [CVF](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Masked_Image_Training_for_Generalizable_Deep_Image_Denoising_CVPR_2023_paper.html) [Github](https://github.com/haoyuc/MaskedDenoising)
