@@ -27,8 +27,13 @@ Denoising Diffusion Models for Plug-and-Play Image Restoration
 Zhu et al., CVPR workshop 2023
 [arXiv](https://arxiv.org/pdf/2305.08995) [Github](https://github.com/yuanzhi-zhu/DiffPIR)
 
+## Degrading Python Libraries
+PiecewiseDistortion: https://github.com/SUKOHI/PiecewiseDistortion
+Imgaug: https://github.com/aleju/imgaug
+
+
 ## Datasets
 
-| Name | Train | Validation | Test | Linke |
+| Name | Train # | Validation # | Test # | Link |
 | --- | --- | --- | --- | --- |
-| DIV2K | | | | [Link](https://data.vision.ee.ethz.ch/cvl/DIV2K/)|
+| DIV2K | 800 | 100 | 100 | [Link](https://data.vision.ee.ethz.ch/cvl/DIV2K/)|
