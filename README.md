@@ -31,4 +31,4 @@ Zhu et al., CVPR workshop 2023
 
 | Name | Train | Validation | Test | Linke |
 | --- | --- | --- | --- | --- |
-| DIV2K | | | | (Link)[https://data.vision.ee.ethz.ch/cvl/DIV2K/]|
+| DIV2K | | | | [Link](https://data.vision.ee.ethz.ch/cvl/DIV2K/)|
