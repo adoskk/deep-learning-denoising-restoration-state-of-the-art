@@ -35,6 +35,8 @@ Imgaug: https://github.com/aleju/imgaug
 
 ## Datasets
 
+[Kodak Lossless True Color Image Suite](https://r0k.us/graphics/kodak/)
+
 | Name | Train # | Validation # | Test # | Link |
 | --- | --- | --- | --- | --- |
 | DIV2K | 800 | 100 | 100 | [Link](https://data.vision.ee.ethz.ch/cvl/DIV2K/)|
